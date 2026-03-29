@@ -2,6 +2,7 @@ package com.mg.taskmanager.service.impl;
 
 import com.mg.taskmanager.model.Task;
 import com.mg.taskmanager.repository.TaskRepository;
+import com.mg.taskmanager.service.TaskService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -11,7 +12,7 @@ public class TaskServiceImpl implements TaskService {
 
     private final TaskRepository taskRepository;
 
-    public TaskService(TaskRepository taskRepository) {
+    public TaskServiceImpl(TaskRepository taskRepository) {
         this.taskRepository = taskRepository;
     }
 
