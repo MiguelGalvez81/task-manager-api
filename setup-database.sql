@@ -58,3 +58,5 @@ SELECT * FROM `user`;
 SELECT 'Tareas creadas:' AS info;
 SELECT * FROM `task`;
 --Marco
+
+--SOLICITUUD PUSH ACEPTADA 
