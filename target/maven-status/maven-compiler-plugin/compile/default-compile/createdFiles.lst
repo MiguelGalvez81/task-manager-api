@@ -1,0 +1,12 @@
+com\mg\taskmanager\config\CorsConfig.class
+com\mg\taskmanager\controller\TaskController.class
+com\mg\taskmanager\service\TaskService.class
+com\mg\taskmanager\model\User.class
+com\mg\taskmanager\controller\AuthController.class
+com\mg\taskmanager\config\SwaggerConfig.class
+com\mg\taskmanager\model\Task.class
+com\mg\taskmanager\repository\TaskRepository.class
+com\mg\taskmanager\repository\UserRepository.class
+com\mg\taskmanager\TaskManagerApplication.class
+com\mg\taskmanager\security\JwtUtil.class
+com\mg\taskmanager\service\impl\TaskServiceImpl.class

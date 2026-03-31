@@ -1,0 +1,12 @@
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\config\CorsConfig.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\config\SwaggerConfig.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\controller\AuthController.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\controller\TaskController.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\model\Task.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\model\User.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\repository\TaskRepository.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\repository\UserRepository.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\security\JwtUtil.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\service\impl\TaskServiceImpl.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\service\TaskService.java
+D:\workspaces\VScode\TaskManager\task-manager-api\src\main\java\com\mg\taskmanager\TaskManagerApplication.java
